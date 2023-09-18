@@ -298,7 +298,7 @@ let boxOne = [
     },
     {
         exampleOne: "Opini yang valid di dunia ini hanya milikku! 🧠🧠 Mau itu dosen atau profesional yang sudah menghabiskan seumur hidupnya mempelajari sebuah ilmu, kalau aku gak setuju dengannya ya pasti dia salah!! 💀💀💀",
-        exampleTwo: "Fakta dan data adalah segalanya!! Mau sebuah solusi terlihat rasional atau tidak, kalau solusi tersebut tidak sesuai dengan apa yang terjadi di dunia, maka lebih baik dibuang saja!! #factsdontcareaboutyourtheories"
+        exampleTwo: "Fakta dan data adalah segalanya!! Mau sebuah solusi terlihat rasional atau tidak, kalau solusi tersebut tidak sesuai dengan apa yang terjadi di dunia, maka lebih baik dibuang saja!! #factsovertheories"
     },
     {
         exampleOne: "Belajar itu ya karena mau tofu, bukan untuk dapat nilai bagus. Dasar sistem sekolah negeri yang fasis dengan perankingannya! Walaupun tidak diakui oleh institusi edukasi, aku akan tetap menimba ilmu for the sake of knowledge itself!!",
